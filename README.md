@@ -4,16 +4,16 @@ Open-Source materials to perform 3D Geometric Morphometrics
 Getting Started with 3DSlicer/SlicerMorph and downstream analysis
 
 ### 3D Slicer
-#### Download Link:** https://download.slicer.org/
- -**3D Slicer Materials**
-    -*Documentation:* https://slicer.readthedocs.io/en/latest/
-    -*Training:* https://www.slicer.org/wiki/Documentation/Nightly/Training
-    -*Helpful Youtube Channels* 
-       - PerkLab: https://www.youtube.com/@PerkLabResearch/videos
-       - 3DSlicer: https://www.youtube.com/@3DSlicerChannel/videos
-       - The Virtual Paleontologist: https://www.youtube.com/@VirtPaleo
-       - DeLeon Lab: https://www.youtube.com/@deleonlab
-       - SlicerMorph: https://www.youtube.com/@slicermorphslicermorph8728
+#### Download Link: https://download.slicer.org/
+##### 3D Slicer Materials
+        *Documentation:* https://slicer.readthedocs.io/en/latest/
+        *Training:* https://www.slicer.org/wiki/Documentation/Nightly/Training
+        *Helpful Youtube Channels* 
+          PerkLab: https://www.youtube.com/@PerkLabResearch/videos
+          3DSlicer: https://www.youtube.com/@3DSlicerChannel/videos
+          The Virtual Paleontologist: https://www.youtube.com/@VirtPaleo
+          DeLeon Lab: https://www.youtube.com/@deleonlab
+          SlicerMorph: https://www.youtube.com/@slicermorphslicermorph8728
 
 ## SlicerMorph: 3D Slicer Extension
    -**Download:** Open Slicer - Extension Wizard - Install Extensions Tab - Search "SlicerMorph"
