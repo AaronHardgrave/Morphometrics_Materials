@@ -4,7 +4,7 @@ Open-Source materials to perform 3D Geometric Morphometrics
 Getting Started with 3DSlicer/SlicerMorph and downstream analysis
 
 ### 3D Slicer
- -**Download Link:** https://download.slicer.org/
+#### Download Link:** https://download.slicer.org/
  -**3D Slicer Materials**
     -*Documentation:* https://slicer.readthedocs.io/en/latest/
     -*Training:* https://www.slicer.org/wiki/Documentation/Nightly/Training
